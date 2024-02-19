@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1708363722725,
+      "tag": "0000_flat_amphibian",
+      "breakpoints": true
+    }
+  ]
+}
